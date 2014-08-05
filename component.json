@@ -6,5 +6,5 @@
   "dependencies": {
     "jashkenas/backbone": ">=1.0.0"
   },
-  "repository": "jeromegn/backbone.localstorage"
+  "repository": "iampeter/backbone.localstorage"
 }
